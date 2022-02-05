@@ -14,22 +14,232 @@ Students are required to complete a take-home exam due on the last day of class.
 3.  Enormous emphasis has been placed in recent debates about economic organization on the need for "flexible" economic institutions. Why does the economy need flexibility? Why should the market be more flexible than the large, bureaucratic firm? In terms of this debate, how does one think about network organizations? Are networks a third type of organization or simply a half-way point between market and hierarchies?
 4.  What is meant by the term "tacit" knowledge? How would its existence affect the meaning and value of non-tacit (explicit) knowledge? How would the existence of tacit knowledge affect the operation of the economy and the optimal set of institutional arrangements required for its operation?
 
-| SES # | SCIENCE LECTURES | ENGINEERING LECTURES | LABS |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Week 1**{{< /td-colspan >}} ||||
-| 1 | Introduction and Overview - Kujawinski | Historical Perspective on Sampling Equipment for Oceanic Research - Clifford/Tripp | Science - Prepare for Field Trip |
-| 2 || {{< td-colspan 3 >}}Field Trip to Boston Harbor/ Buzzards Bay{{< /td-colspan >}} |||
-| 3 | Physical Parameters of The Coastal Ocean - Kujawinski | Overview of Basic Ocean Sensors - White | Science - Density Structure of BH/BB |
-| 4 | Biological Productivity - Kujawinski | Instrumentation Basics - Hover | Engineering - Build/Test Sensor |
-| 5 || {{< td-colspan 3 >}}WHOI Tour 1: WHOI's Chemical Instrumentation Facilities{{< /td-colspan >}} |||
-| {{< td-colspan 4 >}}**Week 2**{{< /td-colspan >}} ||||
-| 6 | Nutrients (Overview), Nitrogen Cycle - Kujawinski | Power Sources for Oceanographic Systems - Hover | Science - Nitrate Analyses  {{< br >}}  {{< br >}}Engineering - Deploy Sensor |
-| 7 | Error Analysis for Lab Measurements to Date - Kujawinski | Time-series Analyses - Hover | Science - Dissolved Oxygen Titrations |
-| 8 | Carbon Cycle (Overview) - Kujawinski | Acoustics Overview - Hover | Engineering - Recover Sensor Analyze Data |
-| 9 || {{< td-colspan 3 >}}WHOI Tour 2: WHOI's Coastal Oceanography Labs{{< /td-colspan >}} |||
-| {{< td-colspan 4 >}}**Week 3**{{< /td-colspan >}} ||||
-| 10 | Trace Metals (Nutrients vs. Toxins) - Kujawinski | Engineering for The Marine Environment - Hover/White | Science - Phosphate Analysis  {{< br >}}  {{< br >}}Engineering - Deploy Sensor |
-| 11 | Analytical Techniques of Chemical Oceanography - Kujawinski | Platforms I - Satellites, Buoys, Cabled Observatories - White | Science - Caffeine Analysis |
-| 12 | Anthropogenic Impacts on the Coastal Zone - Organic Pollutants - Kujawinski | Platforms II - Vehicles (Manned Submersibles, ROVs, AUVs) - White | Engineering - Recover Sensor Analyze Data |
-| 13 | Putting it All Together - Kujawinski | Advanced Sensors (Spectroscopy) - White | Engineering - Raman Lab |
-| 14 || {{< td-colspan 3 >}}WHOI Tour 3: WHOI's Ocean Engineering / Instrumentation Labs{{< /td-colspan >}} ||
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+SCIENCE LECTURES
+{{< thclose >}}
+{{< thopen >}}
+ENGINEERING LECTURES
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Week 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Overview - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Historical Perspective on Sampling Equipment for Oceanic Research - Clifford/Tripp
+{{< tdclose >}}
+{{< tdopen >}}
+Science - Prepare for Field Trip
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+Field Trip to Boston Harbor/ Buzzards Bay
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Physical Parameters of The Coastal Ocean - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of Basic Ocean Sensors - White
+{{< tdclose >}}
+{{< tdopen >}}
+Science - Density Structure of BH/BB
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Biological Productivity - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Instrumentation Basics - Hover
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering - Build/Test Sensor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+WHOI Tour 1: WHOI's Chemical Instrumentation Facilities
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Week 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nutrients (Overview), Nitrogen Cycle - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Power Sources for Oceanographic Systems - Hover
+{{< tdclose >}}
+{{< tdopen >}}
+Science - Nitrate Analyses  
+  
+Engineering - Deploy Sensor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Error Analysis for Lab Measurements to Date - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Time-series Analyses - Hover
+{{< tdclose >}}
+{{< tdopen >}}
+Science - Dissolved Oxygen Titrations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Carbon Cycle (Overview) - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Acoustics Overview - Hover
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering - Recover Sensor Analyze Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+WHOI Tour 2: WHOI's Coastal Oceanography Labs
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Week 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Trace Metals (Nutrients vs. Toxins) - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering for The Marine Environment - Hover/White
+{{< tdclose >}}
+{{< tdopen >}}
+Science - Phosphate Analysis  
+  
+Engineering - Deploy Sensor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Analytical Techniques of Chemical Oceanography - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Platforms I - Satellites, Buoys, Cabled Observatories - White
+{{< tdclose >}}
+{{< tdopen >}}
+Science - Caffeine Analysis
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Anthropogenic Impacts on the Coastal Zone - Organic Pollutants - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Platforms II - Vehicles (Manned Submersibles, ROVs, AUVs) - White
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering - Recover Sensor Analyze Data
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Putting it All Together - Kujawinski
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced Sensors (Spectroscopy) - White
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering - Raman Lab
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen colspan="3" >}}
+WHOI Tour 3: WHOI's Ocean Engineering / Instrumentation Labs
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
