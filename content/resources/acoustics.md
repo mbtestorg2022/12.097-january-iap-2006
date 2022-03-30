@@ -6,6 +6,7 @@ description: This resource discusses about particle velocity, spreading in three
   the direction of the target.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-097-chemical-investigations-of-boston-harbor-january-iap-2006/68924b352b0b81bb8543ff228ceeab73_acoustics.pdf
 file_type: application/pdf
+parent_uid: 4007a382-83e8-f551-b81c-00d4400717fc
 resourcetype: Document
 title: acoustics.pdf
 uid: 68924b35-2b0b-81bb-8543-ff228ceeab73
